@@ -11,6 +11,10 @@ Want to contribute one? Start with [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 
 | Example | Description | Status |
 | --- | --- | --- |
+| [`semantic-search`](semantic-search/README.md) | Semantic search without filters using `BaseRetrieval` and `BaseRetrievalTool`. | Ready |
+<!-- CI: examples/semantic-search/README.md -->
+| [`pretools`](pretools/README.md) | Agent with pre-processing tools for real-time context. | Ready |
+<!-- CI: examples/pretools/README.md -->
 | [common-questions](common-questions/README.md) | Agent with predefined FAQ answers using `BaseFAQ` | Ready |
 <!-- CI: examples/common-questions/README.md -->
 | [`orchestrator-subagents`](orchestrator-subagents/README.md) | Corporate travel assistant with orchestrator + sub-agents pattern. | Ready |
